@@ -39,23 +39,3 @@ Acesse em: [Documento escrito do TCC](https://docs.google.com/document/d/1uaEaaR
 
 🚧 Em desenvolvimento
 
-## Precisa ser realizado
-- [x] Apresentar Requisitos
-- [x] Apresentar Escopo
-- [x] Definir Tecnologias
-- [ ] Citar o que é um sistema web na introdução
-- [x] Finalizar modelagem UML
-- [ ] Revisar Introdução
-- [ ] Criar cronograma do projeto
-- [ ] Realizar CEP TCC
-- [ ] Organizar referências bibliográficas
-- [ ] Definir modelagem do banco de dados
-- [ ] Implementar configurações instuição
-- [ ] Implementar cadastro de professores
-- [ ] Implementar cadastro de alunos
-- [ ] Implementar controle de pagamentos
-- [ ] Implementar geração de carnês
-- [ ] Implementar usuários
-- [ ] Desenvolver protótipo funcional
-- [ ] Implementar geração de comprovantes
-- [ ] Implementar relatórios administrativos
