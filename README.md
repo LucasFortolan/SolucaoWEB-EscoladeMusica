@@ -10,6 +10,10 @@ A parte escrita do trabalho está sendo desenvolvida em um documento separado, c
 
 Acesse em: [Documento escrito do TCC](https://docs.google.com/document/d/1uaEaaRcxusozftbsU34Uc0VSGveTIs-ne6KhyjLlYxU/edit?usp=sharing)
 
+## Diagrama UML
+
+[Diagrama UML de Classes](docs/DiagramaUML.svg.png)
+
 ## Funcionalidades previstas
 
 - Cadastro de alunos
